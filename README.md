@@ -1,6 +1,6 @@
 # Reroute: Learn AI, Stay Safe
 
-A free, private learning site that helps **immigrant and career-changing women** use AI for their careers, and stay safe from AI-powered scams.
+A free, private learning site that helps those looking to reskill in the era of AI or pivot (countries, industries, etc) use AI for their careers, and stay safe from AI-powered scams.
 
 ## What it does
 - **Personalized plan** (`/start` → `/plan`): 6 questions. Claude picks and orders lessons **only from a fixed catalog** (validated with Zod).
